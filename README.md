@@ -2,7 +2,7 @@
 
 Repository to learn and play around with Babylon
 
-The website is hosted on github pages
+The website is hosted on GitHub Pages at (https://atlinx.github.io/LearningBabylon)[https://atlinx.github.io/LearningBabylon].
 
 ## Notes
 
